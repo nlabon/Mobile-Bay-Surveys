@@ -12,7 +12,7 @@ Using GitHub and Binder, share your work:
 
 Click the Binder button below to open the sample Notebook.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nlabon/Mobile-Bay-Surveys.git/HEAD?labpath=index.ipynd)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nlabon/Mobile-Bay-Surveys/HEAD?labpath=index.ipynb)
 
 This example repo uses R.  ([Using Python? Check Here.](https://github.com/OyBcSt/project-template-python))
 
